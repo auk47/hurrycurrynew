@@ -184,6 +184,12 @@ a:hover{
     box-shadow: 5px 5px rgba(105, 105, 105, 0.75);
     z-index: 5;
 }
+.link-to-external-site{
+    position: absolute;
+    cursor: pointer;
+    z-index: 5;
+    color: #000000;
+}
 .scroll{
     position: absolute;
     bottom: 2rem;
